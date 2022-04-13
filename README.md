@@ -1,2 +1,4 @@
 # Bayesian_Network_Project
-Final Project  of the course "Advanced Statistics for Physics Analysis" of "Physics of Data" MSc @ UniPD.
+
+This repository contains the final project of the course "Advanced Statistics for Physics Analysis" of "Physics of Data" MSc at University of Padua, done in collaboration with Pietro Miglioranza and Francesco Zambelli.
+
