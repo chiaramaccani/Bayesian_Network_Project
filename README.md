@@ -6,3 +6,4 @@ The task of this work consists in the analysis of a dataset containing informati
 
 The code is written using R.
 
+<img src='https://github.com/chiaramaccani/Bayesian_Network_Project/blob/main/image_network.png?raw=true'  style='width:800px;'/>
